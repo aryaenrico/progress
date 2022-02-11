@@ -1,2 +1,4 @@
-# progress
-ini adalah latihan salah satu materi yang ada di dicoding 
+# latihan pertama 
+11/02/2022  
+
+Arya Enrico
